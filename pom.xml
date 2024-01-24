@@ -39,12 +39,12 @@
 
     <distributionManagement>
         <repository>
-            <id>aikar</id>
-            <url>https://repo.aikar.co/content/repositories/aikar-release/</url>
+            <id>jeff-media-public</id>
+            <url>https://repo.jeff-media.com/public/</url>
         </repository>
         <snapshotRepository>
-            <id>aikar</id>
-            <url>https://repo.aikar.co/content/repositories/aikar-snapshots/</url>
+            <id>jeff-media-public</id>
+            <url>https://repo.jeff-media.com/public/</url>
         </snapshotRepository>
     </distributionManagement>
 
@@ -52,6 +52,10 @@
         <repository>
             <id>aikar</id>
             <url>https://repo.aikar.co/content/groups/aikar/</url>
+        </repository>
+        <repository>
+            <id>jeff-media-public</id>
+            <url>https://repo.jeff-media.com/public/</url>
         </repository>
     </repositories>
 

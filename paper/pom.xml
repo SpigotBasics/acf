@@ -36,6 +36,7 @@
 
     <artifactId>acf-paper</artifactId>
     <version><!--VERSION-->0.5.1-SNAPSHOT<!--VERSION--></version>
+    <groupId>com.github.spigotbasics</groupId>
 
     <name>ACF (Paper)</name>
 
@@ -47,7 +48,7 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>co.aikar</groupId>
+            <groupId>com.github.spigotbasics</groupId>
             <artifactId>acf-bukkit</artifactId>
             <version><!--VERSION-->0.5.1-SNAPSHOT<!--VERSION--></version>
             <scope>compile</scope>

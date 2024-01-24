@@ -36,6 +36,7 @@
 
     <artifactId>acf-bukkit</artifactId>
     <version><!--VERSION-->0.5.1-SNAPSHOT<!--VERSION--></version>
+    <groupId>com.github.spigotbasics</groupId>
 
     <name>ACF (Bukkit)</name>
 
